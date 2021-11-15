@@ -1,6 +1,4 @@
 /*
-cron */10 */3 * * * https://raw.githubusercontent.com/cairong/ym/main/jkd.js 聚看点
-
 邀请码必填得金币  我的邀请码 24515245
 邀请码必填得金币  我的邀请码 24515245
 
