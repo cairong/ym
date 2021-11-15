@@ -26,8 +26,7 @@ hostname = *.chuxingyouhui.com
 
 */
 
-const jsname = '全球购骑士特权'
-const $ = Env(jsname)
+const $ = new Env("全球购骑士特权");
 //const notifyFlag = 1; //0为关闭通知，1为打开通知,默认为1
 const logDebug = 0
 
